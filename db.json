@@ -1,0 +1,28 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Vijay",
+      "city": "Bengaluru",
+      "mobile": 9874562132
+    },
+    {
+      "id": 3,
+      "name": "puja",
+      "city": "Bengaluru",
+      "mobile": 7874562132
+    },
+    {
+      "id": 4,
+      "name": "naveen",
+      "city": "Bengaluru",
+      "mobile": 6874562132
+    },
+    {
+      "id": 5,
+      "name": "parv",
+      "city": "Bengaluru",
+      "mobile": 7774562132
+    }
+  ]
+}
